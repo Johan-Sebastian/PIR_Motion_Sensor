@@ -32,3 +32,7 @@ por lo que el sensor genera un cambio diferencial negativo. Estos pulsos de camb
 | El propio sensor PIR             |
 |----------------------------------------------|
 | El sensor IR en sí está alojado en una lata de metal sellada herméticamente para mejorar la inmunidad al ruido/temperatura/humedad. Hay una ventana hecha de material transmisor de IR (típicamente silicona recubierta ya que es muy fácil de conseguir) que protege el elemento sensor. Detrás de la ventana están los dos sensores balanceados.             |
+
+
+Referencia:
+https://www.instructables.com/PIR-Motion-Sensor-Tutorial/
