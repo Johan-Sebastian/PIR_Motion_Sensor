@@ -8,3 +8,17 @@ Los sensores PIR le permiten detectar movimiento, casi siempre se usan para dete
 Sensores "piroeléctricos" o de "movimiento IR".
 
 <a target="_top"><img src= "https://content.instructables.com/ORIG/FXY/EQAU/FYIZHAJN/FXYEQAUFYIZHAJN.jpg?auto=webp&frame=1&crop=3:2&width=807&fit=bounds&md=6e7ab9813972c99e99532482e1e81e80" width="280" height="220" alt="Logo GitHub" border="0" /></a>
+
+Estas estadísticas son para el sensor PIR en la tienda de Adafruit, que es muy parecido al de Parallax. Casi todos los PIR tendrán especificaciones ligeramente diferentes, aunque todos funcionan prácticamente igual.
+
+
+|  Estadísticas básicas                        |
+|----------------------------------------------|
+| Size: Rectangular                            | 
+| Output: Digital pulse high (3V) when triggered (motion detected) digital low when idle (no motion detected). Pulse lengths are determined by resistors and capacitors on the PCB and differ from sensor to sensor.             |
+| Sensitivity range: up to 20 feet (6 meters) 110 degrees x 70 degrees detection range | 
+| Power supply: 3.3V - 5V input voltage                     |
+| BIS0001 Datasheet (the decoder chip used)                  | 
+| RE200B datasheet (most likely the PIR sensing element used)             |
+| NL11NH datasheet (equivalent lens used)             |
+| Parallax Datasheet on their version of the sensor              |
