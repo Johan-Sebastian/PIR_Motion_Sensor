@@ -22,3 +22,13 @@ Estas estadísticas son para el sensor PIR en la tienda de Adafruit, que es muy 
 | RE200B datasheet (most likely the PIR sensing element used)             |
 | NL11NH datasheet (equivalent lens used)             |
 | Parallax Datasheet on their version of the sensor              |
+
+<a target="_top"><img src= "https://content.instructables.com/ORIG/FXW/S6GH/FYNTA23Z/FXWS6GHFYNTA23Z.jpg?auto=webp&frame=1&fit=bounds&md=88e0a0b06d303bad31dc6b6e697f0507" width="280" height="220" alt="Logo GitHub" border="0" /></a>
+
+El sensor PIR en sí tiene dos ranuras, cada ranura está hecha de un material especial que es sensible a los IR. La lente utilizada aquí realmente no está haciendo mucho, por lo que vemos que las dos ranuras pueden 'ver' más allá de cierta distancia (básicamente, la sensibilidad del sensor). Cuando el sensor está inactivo, ambas ranuras detectan la misma cantidad de IR,
+la cantidad ambiental radiada desde la habitación, las paredes o el exterior. Cuando pasa un cuerpo caliente como un humano o un animal, primero intercepta la mitad del sensor PIR, lo que provoca un cambio diferencial positivo entre las dos mitades. Cuando el cuerpo tibio sale del área de detección, ocurre lo contrario,
+por lo que el sensor genera un cambio diferencial negativo. Estos pulsos de cambio son lo que se detecta.1
+
+| El propio sensor PIR             |
+|----------------------------------------------|
+| El sensor IR en sí está alojado en una lata de metal sellada herméticamente para mejorar la inmunidad al ruido/temperatura/humedad. Hay una ventana hecha de material transmisor de IR (típicamente silicona recubierta ya que es muy fácil de conseguir) que protege el elemento sensor. Detrás de la ventana están los dos sensores balanceados.             |
