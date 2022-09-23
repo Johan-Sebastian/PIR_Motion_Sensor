@@ -35,7 +35,7 @@ por lo que el sensor genera un cambio diferencial negativo. Estos pulsos de camb
 
 |Modelo simulado.|
 |----------------------------------------------|
-|https://wokwi.com/projects/343278129708532306|
+|https://wokwi.com/projects/343549391526691411|
 
 Referencia:
 https://www.instructables.com/PIR-Motion-Sensor-Tutorial/
